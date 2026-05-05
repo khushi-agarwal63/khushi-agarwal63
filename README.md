@@ -35,7 +35,7 @@ class KhushiAgarwal extends Developer {
 
     dsa = {
         solved: "400+",
-        platforms: ["LeetCode", "Codeforces", "GFG","Codechef],
+        platforms: ["LeetCode", "Codeforces", "GFG", "Codechef"],
         language: "C++"
     };
 
@@ -51,10 +51,10 @@ export default new KhushiAgarwal();
 
 ## 🧠 What I Do
 
-- 💳 Payment Gateway Integration (Razorpay, Stripe, PayU, Cashfree, Braintree)  
-- ⚙️ Backend Development (Laravel, Flask, APIs, Webhooks)  
-- 🤖 AI Applications (OpenAI / Gemini APIs)  
-- 📊 DSA & Competitive Programming  
+- 💳 Payment Gateway Integration (Razorpay, Stripe, PayU, Cashfree, Braintree)
+- ⚙️ Backend Development (Laravel, Flask, APIs, Webhooks)
+- 🤖 AI Applications (OpenAI / Gemini APIs)
+- 📊 DSA & Competitive Programming
 
 ---
 
@@ -71,27 +71,27 @@ export default new KhushiAgarwal();
 ## 🔥 Featured Projects
 
 ### 💳 Laravel Multi-Gateway Payment Package
-- Integrated Razorpay, Stripe, PayU, Cashfree, Braintree  
-- Webhooks + async handling  
-- Plug-and-play architecture  
+- Integrated Razorpay, Stripe, PayU, Cashfree, Braintree
+- Webhooks + async handling
+- Plug-and-play architecture
 
 ---
 
 ### 🎥 GateGuard — CCTV Detection
-- YOLO + OpenCV  
-- Real-time tracking system  
+- YOLO + OpenCV
+- Real-time tracking system
 
 ---
 
 ### 🛒 Sweet Shop Website
-- Full-stack Laravel project  
-- UI + backend integration  
+- Full-stack Laravel project
+- UI + backend integration
 
 ---
 
 ### 🧠 AI Memory App
-- Flask + Gemini API  
-- Smart note generation  
+- Flask + Gemini API
+- Smart note generation
 
 ---
 
@@ -99,15 +99,15 @@ export default new KhushiAgarwal();
 
 <div align="center">
 
-<a href="[https://codolio.com/profile/YOUR_CODOLIO_USERNAM](https://codolio.com/profile/khushi_agarwal)E">
+<a href="https://codolio.com/profile/khushi_agarwal">
   <img src="https://img.shields.io/badge/Codolio-Portfolio-c084fc?style=for-the-badge"/>
 </a>
 
-<a href="[https://leetcode.com/YOUR_LEETCODE_USERNAM](https://leetcode.com/u/khushi_agar/)E">
+<a href="https://leetcode.com/u/khushi_agar/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="[https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME](https://codeforces.com/profile/khushi.27.agarwal2710)">
+<a href="https://codeforces.com/profile/khushi.27.agarwal2710">
   <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces"/>
 </a>
 
@@ -144,26 +144,18 @@ export default new KhushiAgarwal();
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
-
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Top 50 in LeetCode Contest  
-- 🏅 Smart India Hackathon  
-- 📜 Laravel Internship Certificate  
+- 🥇 Top 50 in LeetCode Contest
+- 🏅 Smart India Hackathon
+- 📜 Laravel Internship Certificate
 
 ---
 
@@ -179,7 +171,7 @@ export default new KhushiAgarwal();
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/khushiagarwal63)">
+<a href="https://www.linkedin.com/in/khushiagarwal63">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
