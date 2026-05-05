@@ -130,11 +130,12 @@ export default new KhushiAgarwal();
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Khushi-agarwal63&show_icons=true&theme=tokyonight" height="160"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-agarwal63&layout=compact&theme=tokyonight" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-agarwal63&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Khushi-agarwal63&theme=tokyonight" />
 
 </div>
 
