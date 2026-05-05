@@ -4,11 +4,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=750&lines=CSE+%40+JECRC+University+%C2%B7+2023-27;Laravel+Backend+Developer+Intern;Built+Multi-Gateway+Payment+System+%F0%9F%92%B3;250%2B+DSA+Problems+Solved+%F0%9F%94%A5;Building+AI+Apps+%7C+System+Design;Open+for+SDE+Internships+2026)](https://github.com/Khushi-agarwal63)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=750&lines=CSE+%40+JECRC+University+%C2%B7+2023-27;Laravel+Backend+Developer+Intern;Built+Multi-Gateway+Payment+System+%F0%9F%92%B3;250%2B+DSA+Problems+Solved+%F0%9F%94%A5;Building+AI+Apps+%7C+System+Design;Open+for+SDE+Internships+2026)](https://github.com/khushi-agarwal63)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Khushi-agarwal63&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" />
+<img src="https://komarev.com/ghpvc/?username=khushi-agarwal63&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" />
 
 </div>
 
@@ -119,7 +119,7 @@ export default new KhushiAgarwal();
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Khushi-agarwal63&theme=dracula&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=khushi-agarwal63&theme=dracula&no-frame=true&no-bg=true" />
 
 </div>
 
@@ -129,9 +129,9 @@ export default new KhushiAgarwal();
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khushi-agarwal63&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushi-agarwal63&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-agarwal63&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khushi-agarwal63&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="165" />
 
 <br/><br/>
 
@@ -143,18 +143,23 @@ export default new KhushiAgarwal();
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-agarwal63&theme=tokyo-night" />
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi-agarwal63&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/khushi-agarwal63)
 
 ---
 
@@ -174,7 +179,7 @@ export default new KhushiAgarwal();
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/Khushi-agarwal63">
+<a href="https://github.com/khushi-agarwal63">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
