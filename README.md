@@ -1,155 +1,246 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,30:1a0a2e,60:0d0020,100:0a0010&height=300&section=header&text=Sonam%20Narula&fontSize=85&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=MERN%20Stack%20Dev%20%7C%20DSA%20Grinder%20%7C%20Ship%20First%2C%20Sleep%20Later&descColor=a855f7&descSize=20&descAlignY=65&stroke=c084fc&strokeWidth=2" />
+
+<br clear="both">
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khushi%20Agarwal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=16"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+%7C+Turning+Ideas+into+Code;⚡+Building+Scalable+%26+Beautiful+Software;🌟+Open+Source+Contributor+%26+Learner;💡+Clean+Code+%7C+Clean+Architecture+%7C+Big+Dreams)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=700&lines=CSE+%40+JECRC+University+%C2%B7+2023-27;Built+Trackify+%E2%80%94+live+%26+deployed+%F0%9F%9A%80;1000%2B+DSA+problems+across+platforms+%F0%9F%94%A5;Learning+MERN+%7C+Data+Analytics+%7C+System+Design;Open+for+On-site+SDE+Internship+%E2%86%92+2026)](https://github.com/SonamNarula)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=khushi-agarwal63&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/khushi-agarwal63?style=for-the-badge&color=00f5ff&labelColor=1a1a2e&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<a href="https://github.com/Khushi-agarwal63">
+  <img src="https://komarev.com/ghpvc/?username=Khushi-agarwal63&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" />
+</a>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
+  <img src="./assets/quote.svg" />
+</div>
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-```typescript
-const khushi = {
-  name:       "Khushi Agarwal",
-  location:   "India 🇮🇳",
-  role:       "Software Engineer",
-  education:  "Computer Science 🎓",
-  passion:    ["Clean Code", "System Design", "Innovation"],
-  currentlyLearning: ["Cloud Architecture ☁️", "DSA 🧠"],
-  funFact:    "I turn ☕ coffee into </code>",
-  available:  true  // Open to opportunities!
-};
+```ts
+class Khushi-agarwal63 extends Developer {
+
+    university = "CSE @ JECRC University, Jaipur  ·  2023–27";
+    built      = "Trackify — student productivity suite · live & deployed";
+    dsa        = { solved: "400++ across LeetCode · GFG · Codolio", lang: "C++" };
+    current    = ["CRT — Campus Recruitment Training", "Data Analytics", "Stronger DSA"];
+
+    reach() {
+        return "khushiagar2710@gmail.com";
+    }
+}
+
+export default new khushi-agarwal63();
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🗄️ Databases & Dev Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/khushi-agarwal63)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushi-agarwal63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=bf91f3&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-agarwal63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
+**💻 Languages**
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=khushi-agarwal63&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00f5ff&ring=bf91f3&fire=ff6e6e&currStreakLabel=00f5ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khushi-agarwal63&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi-agarwal63&theme=react-dark&bg_color=0d1117&color=00f5ff&line=bf91f3&point=ff6e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔭 Working On | 🌱 Learning | 👯 Looking to Collaborate | 💬 Ask Me About |
-|:---:|:---:|:---:|:---:|
-| Personal Projects | System Design | Open Source | DSA & Dev |
-| Full Stack Apps | Cloud & DevOps | Hackathons | Web Dev |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-agarwal63)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/khushi-agarwal63)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushi-agarwal63)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushiagarwal63@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,bash,markdown" />
 
 <br/><br/>
 
-```
-╔════════════════════════════════════════════════════════════╗
-║  "Code is like humor. When you have to explain it,        ║
-║   it's bad." — Cory House                                 ║
-╚════════════════════════════════════════════════════════════╝
-```
+**⚛️ Frontend**
 
-**⭐ If you find my work useful, don't forget to star the repos! ⭐**
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,nextjs,bootstrap,sass,materialui,styledcomponents" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/><br/>
+
+**🖥️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,graphql,redis" />
+
+<br/><br/>
+
+**⚙️ Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel,netlify,linux,figma,canva,notion,npm" />
+
+<br/><br/>
+
+**🤖 AI & Others**
+
+<img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch" />
 
 </div>
+
+---
+
+## 🔥 SIGNATURE PROJECTS
+
+> real code · real problems · real shipping
+
+---
+
+### 💜 Trackify — *My Flagship*
+> *"One dashboard for everything a student grinds through"*
+
+My **college minor project**, built solo and deployed live. A productivity suite designed around how CS students actually study — tracking DSA solves, study sessions, tasks, and deadlines all in one place.
+
+```
+STATUS : 🟢 LIVE & DEPLOYED
+LINK   : trackify.wasmer.app
+STACK  : React · JavaScript · Vite · CSS
+```
+
+**What it does:**
+- 📊 DSA solve tracker with daily streaks
+- ⏱️ Study hours & session logging
+- ✅ Task manager with deadlines
+- 📈 Progress dashboard — see your growth visually
+- 🎓 Built as college minor project · actually works · actually shipped
+
+[![🔗 Visit Live](https://img.shields.io/badge/🔗_VISIT_LIVE-trackify.wasmer.app-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://trackify.wasmer.app)
+[![📂 View Repo](https://img.shields.io/badge/📂_VIEW_REPO-a855f7?style=for-the-badge&labelColor=1a0a2e)](https://github.com/SonamNarula/Trackify-college-minor-project)
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 NeuroNews
+> *"News, filtered the way you want it"*
+
+A **news aggregator app** built with React — category-based filtering, infinite scroll, live API integration. Ran into some deployment issues but the code is solid and the repo is public.
+
+```
+STATUS : 🟡 IN PROGRESS
+STACK  : React · NewsAPI · CSS
+```
+
+**What it does:**
+- 📡 Live news via REST API
+- ♾️ Infinite scroll
+- 🗂️ Category-wise filtering
+- 📱 Responsive layout
+
+[![📂 View Repo](https://img.shields.io/badge/📂_VIEW_REPO-a855f7?style=for-the-badge&labelColor=1a0a2e)](https://github.com/SonamNarula/Neuro-News)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 UI Clones
+> *"If you can clone it, you understand it"*
+
+Pixel-perfect recreations of real-world UIs — built purely for practice. Each clone was an exercise in layout precision, responsiveness, and understanding how good design is actually coded.
+
+```
+STATUS : 🟢 ONGOING PRACTICE
+STACK  : HTML · CSS · JavaScript
+```
+
+**What it does:**
+- 🖼️ Faithful UI reproductions
+- 📐 Layout & spacing accuracy
+- 📱 Responsive across devices
+- 🔎 Focus on micro-details
+
+[![📂 View Repo](https://img.shields.io/badge/📂_VIEW_REPO-a855f7?style=for-the-badge&labelColor=1a0a2e)](https://github.com/SonamNarula)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SonamNarula&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="165" />
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/SonamNarula)
+
+![Metrics](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/github-metrics.svg)
+
+</div>
+
+---
+
+## ⚔️ DSA Grind
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&ext=heatmap" />
+
+<br/><br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/sonamnarula2005/)
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-Daily_Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e)](https://www.geeksforgeeks.org/profile/sonammnapaqc)
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://codolio.com/profile/0PG2lf5S)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/SonamNarula)
+
+
+---
+
+## 📡 Find Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sonam-narula-402a60285/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="https://github.com/SonamNarula">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;
+<a href="mailto:sonamnarula2108@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;
+<a href="https://codolio.com/profile/0PG2lf5S">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0a2e,100:0d001a&height=100&section=footer" />
