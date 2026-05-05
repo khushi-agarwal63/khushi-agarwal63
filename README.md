@@ -125,17 +125,19 @@ export default new KhushiAgarwal();
 
 ---
 
-## 📊 GitHub Stats + Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khushi-agarwal63&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khushi-agarwal63&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushi-agarwal63&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-agarwal63&layout=compact&theme=tokyonight" height="160"/>
+<br/><br/>
 
-<br/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi-agarwal63&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/khushi-agarwal63)
 
-<img src="https://streak-stats.demolab.com?user=Khushi-agarwal63&theme=tokyonight" />
+![Metrics](https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/main/github-metrics.svg)
 
 </div>
 
