@@ -8,9 +8,7 @@
 
 <br/>
 
-<a href="https://github.com/Khushi-agarwal63">
-  <img src="https://komarev.com/ghpvc/?username=Khushi-agarwal63&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Khushi-agarwal63&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" />
 
 </div>
 
@@ -36,8 +34,8 @@ class KhushiAgarwal extends Developer {
     ];
 
     dsa = {
-        solved: "250+",
-        platforms: ["LeetCode", "Codeforces", "CodeChef", "GFG"],
+        solved: "400+",
+        platforms: ["LeetCode", "Codeforces", "GFG","Codechef],
         language: "C++"
     };
 
@@ -47,19 +45,142 @@ class KhushiAgarwal extends Developer {
 }
 
 export default new KhushiAgarwal();
+```
 
-🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js,html,css,tailwind,react,laravel,flask,mysql,git,github,postman,vscode" /> </div>
+---
 
-⚔️ DSA Profiles
-<div align="center"> <a href="https://codolio.com/profile/khushi-agarwal63"> <img src="https://img.shields.io/badge/Codolio-Portfolio-c084fc?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://leetcode.com/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://codeforces.com/"> <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> </div>
+## 🧠 What I Do
 
-🏅 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Khushi-agarwal63&theme=dracula&no-frame=true&no-bg=true&margin-w=6" /> </div>
+- 💳 Payment Gateway Integration (Razorpay, Stripe, PayU, Cashfree, Braintree)  
+- ⚙️ Backend Development (Laravel, Flask, APIs, Webhooks)  
+- 🤖 AI Applications (OpenAI / Gemini APIs)  
+- 📊 DSA & Competitive Programming  
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </picture>
+---
 
-📡 Connect With Me
-<div align="center"> <a href="mailto:khushiagar2710@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://github.com/Khushi-agarwal63"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </div>
+## 🛠️ Tech Stack
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0a2e,100:0d001a&height=100&section=footer" /> ```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js,html,css,tailwind,react,laravel,flask,mysql,git,github,postman,vscode" />
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 💳 Laravel Multi-Gateway Payment Package
+- Integrated Razorpay, Stripe, PayU, Cashfree, Braintree  
+- Webhooks + async handling  
+- Plug-and-play architecture  
+
+---
+
+### 🎥 GateGuard — CCTV Detection
+- YOLO + OpenCV  
+- Real-time tracking system  
+
+---
+
+### 🛒 Sweet Shop Website
+- Full-stack Laravel project  
+- UI + backend integration  
+
+---
+
+### 🧠 AI Memory App
+- Flask + Gemini API  
+- Smart note generation  
+
+---
+
+## ⚔️ DSA Profiles
+
+<div align="center">
+
+<a href="[https://codolio.com/profile/YOUR_CODOLIO_USERNAM](https://codolio.com/profile/khushi_agarwal)E">
+  <img src="https://img.shields.io/badge/Codolio-Portfolio-c084fc?style=for-the-badge"/>
+</a>
+
+<a href="[https://leetcode.com/YOUR_LEETCODE_USERNAM](https://leetcode.com/u/khushi_agar/)E">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="[https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME](https://codeforces.com/profile/khushi.27.agarwal2710)">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Khushi-agarwal63&theme=dracula&no-frame=true&no-bg=true" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats + Streak
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khushi-agarwal63&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-agarwal63&layout=compact&theme=tokyonight" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-agarwal63&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-agarwal63&theme=tokyo-night" />
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 50 in LeetCode Contest  
+- 🏅 Smart India Hackathon  
+- 📜 Laravel Internship Certificate  
+
+---
+
+## 📡 Connect With Me
+
+<div align="center">
+
+<a href="mailto:khushiagar2710@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Khushi-agarwal63">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/khushiagarwal63)">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0a2e,100:0d001a&height=100&section=footer" />
