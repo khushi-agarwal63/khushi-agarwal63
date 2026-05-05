@@ -137,8 +137,6 @@ export default new KhushiAgarwal();
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi-agarwal63&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/khushi-agarwal63)
 
-![Metrics](https://raw.githubusercontent.com/khushi-agarwal63/khushi-agarwal63/main/github-metrics.svg)
-
 </div>
 
 ---
@@ -158,8 +156,6 @@ export default new KhushiAgarwal();
 </picture>
 
 <br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi-agarwal63&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/khushi-agarwal63)
 
 ---
 
